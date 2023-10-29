@@ -8,7 +8,11 @@ Um software que faz a gravação de Artistas/Banda, mostra as bandas cadastradas
 
 ![image](https://github.com/olegariobru/screenSound/assets/50889311/2ab50da0-cce5-4d3d-80ac-64c927219098)
 
-Um projeto onde elaborei funções muito boas para o meu aprendizado e fixação.
+Um projeto onde elaborei funções muito boas para o meu aprendizado e fixação dessas funções em C#.
 
+Executem em suas maquinas 😊
 
+Aceito criticas e elogios também. 😊
+
+Obrigado!
 
